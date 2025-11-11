@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "script": "node ./scripts/get_workouts_count.js"
+    "script": "node ./scripts/get_workouts_count.js && node ./scripts/append_last_workout.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3"

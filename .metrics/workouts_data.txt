@@ -1,0 +1,25 @@
+---
+title: bíceps, tríceps, antebrazos, hombros y core
+logged_at: 2025-11-11 at 15:12 - Tuesday
+start_time: 2025-11-10 at 15:41 - Monday
+end_time: 2025-11-10 at 16:28 - Monday
+duration: 47m 19s
+exercises:
+  - name: Triceps Extension (Machine)
+    sets:
+      - 29.48 kg x 12 reps | RPE 8.5
+      - 29.48 kg x 12 reps | RPE 10
+      - 29.48 kg x 13 reps | RPE 10
+      - 29.48 kg x 12 reps | RPE 9.5
+  - name: Seated Shoulder Press (Machine)
+    sets:
+      - 13.61 kg x 6 reps | RPE 10
+      - 13.61 kg x 11 reps | RPE 10
+      - 13.61 kg x 14 reps | RPE 10
+      - 13.61 kg x 8 reps | RPE 9.5
+  - name: Preacher Curl (Machine)
+    sets:
+      - 36.29 kg x 9 reps | RPE 9
+      - 36.29 kg x 10 reps | RPE 10
+      - 36.29 kg x 7 reps | RPE 10
+      - 36.29 kg x 6 reps | RPE 10
