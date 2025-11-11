@@ -1,0 +1,10 @@
+# env files with real secrets
+.env
+.env.*
+!.env.example
+
+# macOS system files
+.DS_Store
+
+# node modules
+node_modules/

@@ -1,0 +1,11 @@
+{
+  "name": "workouts_data",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "script": "node ./scripts/get_workouts_count.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
