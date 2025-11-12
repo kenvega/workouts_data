@@ -39,3 +39,16 @@ exercises:
       - 15.88 kg x 13 reps | RPE 10
       - 15.88 kg x 15 reps | RPE 10
       - 15.88 kg x 11 reps | RPE 9
+---
+title: espalda
+logged_at: 2025-11-12 at 16:29 - Wednesday
+start_time: 2025-11-12 at 16:21 - Wednesday
+end_time: 2025-11-12 at 16:28 - Wednesday
+duration: 7m 45s
+exercises:
+  - name: Chest Supported Incline Row (Dumbbell)
+    notes: en el 3er seguro de labanca. como a 30 grados
+    sets:
+      - 5.00 kg x 20 reps | RPE 6
+      - 5.00 kg x 20 reps | RPE 8
+      - 5.00 kg x 20 reps | RPE 8
