@@ -52,3 +52,20 @@ exercises:
       - 5.00 kg x 20 reps | RPE 6
       - 5.00 kg x 20 reps | RPE 8
       - 5.00 kg x 20 reps | RPE 8
+---
+title: piernas, glúteos y core
+logged_at: 2025-11-13 at 16:52 - Thursday
+start_time: 2025-11-13 at 16:06 - Thursday
+end_time: 2025-11-13 at 16:31 - Thursday
+duration: 24m 46s
+exercises:
+  - name: Hack Squat (Machine)
+    sets:
+      - 45.36 kg x 23 reps | RPE 9
+      - 52.16 kg x 19 reps | RPE 9
+      - 52.16 kg x 25 reps | RPE 9.5
+  - name: Hip Adduction (Machine)
+    sets:
+      - 65.77 kg x 30 reps | RPE 6
+      - 72.57 kg x 16 reps | RPE 9.5
+      - 72.57 kg x 16 reps | RPE 10
