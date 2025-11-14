@@ -69,3 +69,22 @@ exercises:
       - 65.77 kg x 30 reps | RPE 6
       - 72.57 kg x 16 reps | RPE 9.5
       - 72.57 kg x 16 reps | RPE 10
+---
+title: pecho, espalda y core
+logged_at: 2025-11-14 at 17:14 - Friday
+start_time: 2025-11-14 at 16:33 - Friday
+end_time: 2025-11-14 at 17:01 - Friday
+duration: 27m 57s
+exercises:
+  - name: Chest Press (Machine)
+    sets:
+      - 24.95 kg x 13 reps | RPE 10
+      - 24.95 kg x 12 reps | RPE 10
+      - 24.95 kg x 12 reps | RPE 9
+      - 24.95 kg x 8 reps | RPE 10
+  - name: MTS remo alto
+    sets:
+      - 20.41 kg x 19 reps | RPE 9
+      - 20.41 kg x 12 reps | RPE 9.5
+      - 20.41 kg x 10 reps | RPE 10
+      - 20.41 kg x 10 reps | RPE 9
