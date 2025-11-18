@@ -88,3 +88,22 @@ exercises:
       - 20.41 kg x 12 reps | RPE 9.5
       - 20.41 kg x 10 reps | RPE 10
       - 20.41 kg x 10 reps | RPE 9
+---
+title: bíceps, tríceps, antebrazos, hombros y core
+logged_at: 2025-11-18 at 16:53 - Tuesday
+start_time: 2025-11-18 at 15:49 - Tuesday
+end_time: 2025-11-18 at 16:19 - Tuesday
+duration: 30m 0s
+exercises:
+  - name: Triceps Extension (Machine)
+    sets:
+      - 29.48 kg x 13 reps | RPE 9.5
+      - 29.48 kg x 12 reps | RPE 9
+      - 29.48 kg x 11 reps | RPE 10
+      - 29.48 kg x 11 reps | RPE 10
+  - name: Hammer Curl (Dumbbell)
+    sets:
+      - 6.00 kg x 12 reps | RPE 9
+      - 6.00 kg x 14 reps | RPE 10
+      - 6.00 kg x 13 reps | RPE 10
+      - 6.00 kg x 15 reps | RPE 10
