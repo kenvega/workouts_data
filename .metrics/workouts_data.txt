@@ -107,3 +107,20 @@ exercises:
       - 6.00 kg x 14 reps | RPE 10
       - 6.00 kg x 13 reps | RPE 10
       - 6.00 kg x 15 reps | RPE 10
+---
+title: cardio y core
+logged_at: 2025-11-19 at 16:52 - Wednesday
+start_time: 2025-11-19 at 15:50 - Wednesday
+end_time: 2025-11-19 at 16:14 - Wednesday
+duration: 23m 57s
+exercises:
+  - name: Elliptical Trainer
+    notes: 100 cal
+    sets:
+      - 1000 m | 12:00
+  - name: Crunch (Machine)
+    sets:
+      - 15.88 kg x 10 reps | RPE 8
+      - 15.88 kg x 11 reps | RPE 8
+      - 15.88 kg x 15 reps | RPE 9.5
+      - 15.88 kg x 12 reps | RPE 9.5
