@@ -187,3 +187,21 @@ exercises:
       - 7.00 kg x 18 reps | RPE 9
       - 7.00 kg x 15 reps | RPE 9.5
       - 7.00 kg x 12 reps | RPE 10
+---
+title: piernas, glúteos
+logged_at: 2025-11-26 at 16:44 - Wednesday
+start_time: 2025-11-26 at 16:11 - Wednesday
+end_time: 2025-11-26 at 16:35 - Wednesday
+duration: 24m 0s
+exercises:
+  - name: Hip Abduction (Machine)
+    sets:
+      - 72.57 kg x 12 reps | RPE 9.5
+      - 72.57 kg x 12 reps | RPE 9.5
+      - 72.57 kg x 12 reps | RPE 9.5
+      - 45.36 kg x 12 reps | RPE 9
+  - name: Leg Extension (Machine)
+    sets:
+      - 38.56 kg x 9 reps | RPE 9.5
+      - 38.56 kg x 12 reps | RPE 10
+      - 38.56 kg x 13 reps | RPE 10
