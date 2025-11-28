@@ -219,3 +219,25 @@ exercises:
       - 5.00 kg x 20 reps | RPE 8
       - 5.00 kg x 20 reps | RPE 9
       - 5.00 kg x 20 reps | RPE 8
+---
+title: pecho, espalda y core
+logged_at: 2025-11-28 at 17:30 - Friday
+start_time: 2025-11-28 at 16:06 - Friday
+end_time: 2025-11-28 at 16:43 - Friday
+duration: 36m 27s
+exercises:
+  - name: Remo espalda 2
+    sets:
+      - 31.75 kg x 16 reps | RPE 9
+      - 38.56 kg x 12 reps | RPE 9.5
+      - 38.56 kg x 10 reps | RPE 10
+  - name: Chest Press (Machine)
+    sets:
+      - 31.75 kg x 12 reps | RPE 9
+      - 31.75 kg x 10 reps | RPE 10
+      - 31.75 kg x 8 reps | RPE 9
+      - 31.75 kg x 6 reps | RPE 10
+  - name: Treadmill
+    notes: cal 58
+    sets:
+      - 1030 m | 12:00
