@@ -267,3 +267,17 @@ exercises:
   - name: Hammer Curl (Dumbbell)
     sets:
       - 7.00 kg x 12 reps | RPE 9
+---
+title: espalda
+logged_at: 2025-12-03 at 16:26 - Wednesday
+start_time: 2025-12-03 at 15:31 - Wednesday
+end_time: 2025-12-03 at 15:46 - Wednesday
+duration: 15m 1s
+exercises:
+  - name: Chest Supported Incline Row (Dumbbell)
+    notes: en el 3er seguro de la banca. como a 30 grados
+    sets:
+      - 5.00 kg x 25 reps | RPE 8
+      - 5.00 kg x 20 reps | RPE 8
+      - 5.00 kg x 20 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 8
