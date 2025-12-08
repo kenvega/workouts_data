@@ -298,3 +298,15 @@ exercises:
       - 38.56 kg x 9 reps | RPE 10
       - 38.56 kg x 11 reps | RPE 9.5
       - 38.56 kg x 16 reps | RPE 10
+---
+title: Afternoon workout 💪
+logged_at: 2025-12-08 at 17:19 - Monday
+start_time: 2025-12-08 at 17:06 - Monday
+end_time: 2025-12-08 at 17:18 - Monday
+duration: 11m 48s
+exercises:
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+      - 5.00 kg x 25 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 9
