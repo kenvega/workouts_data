@@ -346,3 +346,15 @@ exercises:
   - name: Seated Shoulder Press (Machine)
     sets:
       - 18.14 kg x 12 reps | RPE 9
+---
+title: Afternoon workout 💪
+logged_at: 2025-12-15 at 17:08 - Monday
+start_time: 2025-12-15 at 16:58 - Monday
+end_time: 2025-12-15 at 17:07 - Monday
+duration: 8m 51s
+exercises:
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+      - 5.00 kg x 25 reps | RPE 9
+      - 5.00 kg x 25 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 9
