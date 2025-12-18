@@ -380,3 +380,17 @@ exercises:
   - name: Treadmill
     sets:
       - 1030 m | 15:00
+---
+title: espalda
+logged_at: 2025-12-18 at 17:05 - Thursday
+start_time: 2025-12-18 at 16:51 - Thursday
+end_time: 2025-12-18 at 17:05 - Thursday
+duration: 14m 7s
+exercises:
+  - name: Chest Supported Incline Row (Dumbbell)
+    notes: en el 3er seguro de la banca. como a 30 grados
+    sets:
+      - 5.00 kg x 20 reps | RPE 8
+      - 5.00 kg x 20 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 8
