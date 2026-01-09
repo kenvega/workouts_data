@@ -432,3 +432,33 @@ exercises:
       - 5.00 kg x 20 reps | RPE 9
       - 5.00 kg x 20 reps | RPE 9
       - 5.00 kg x 20 reps | RPE 8
+---
+title: bíceps, tríceps, antebrazos, hombros y core
+logged_at: 2026-01-09 at 11:14 - Friday
+start_time: 2026-01-09 at 07:44 - Friday
+end_time: 2026-01-09 at 08:32 - Friday
+duration: 47m 40s
+exercises:
+  - name: Triceps Extension (Machine)
+    sets:
+      - 36.29 kg x 12 reps
+      - 36.29 kg x 5 reps
+      - 29.48 kg x 5 reps
+      - 29.48 kg x 8 reps
+      - 29.48 kg x 5 reps
+  - name: Preacher Curl (Machine)
+    sets:
+      - 36.29 kg x 12 reps
+      - 36.29 kg x 9 reps
+      - 36.29 kg x 5 reps
+      - 29.48 kg x 4 reps
+  - name: MTS remo alto
+    sets:
+      - 24.95 kg x 13 reps
+      - 24.95 kg x 5 reps
+      - 22.68 kg x 5 reps
+      - 20.41 kg x 10 reps
+  - name: Elliptical Trainer
+    notes: 100 cal
+    sets:
+      - 860 m | 11:00
