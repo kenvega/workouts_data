@@ -511,3 +511,13 @@ exercises:
       - 5.00 kg x 25 reps | RPE 9
       - 5.00 kg x 25 reps | RPE 9
       - 5.00 kg x 20 reps | RPE 9
+---
+title: Afternoon workout 💪
+logged_at: 2026-01-28 at 18:13 - Wednesday
+start_time: 2026-01-28 at 18:01 - Wednesday
+end_time: 2026-01-28 at 18:13 - Wednesday
+duration: 12m 2s
+exercises:
+  - name: Elliptical Trainer
+    sets:
+      - 1000 m | 12:00
