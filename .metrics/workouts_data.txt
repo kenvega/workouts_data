@@ -543,3 +543,13 @@ exercises:
     notes: 96kcal
     sets:
       - 1580 m | 19:00
+---
+title: Afternoon workout 💪
+logged_at: 2026-02-02 at 12:23 - Monday
+start_time: 2026-02-02 at 12:11 - Monday
+end_time: 2026-02-02 at 12:23 - Monday
+duration: 12m 6s
+exercises:
+  - name: Elliptical Trainer
+    sets:
+      - 1000 m | 12:00
