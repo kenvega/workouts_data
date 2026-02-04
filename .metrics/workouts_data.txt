@@ -553,3 +553,23 @@ exercises:
   - name: Elliptical Trainer
     sets:
       - 1000 m | 12:00
+---
+title: bíceps, tríceps, antebrazos, hombros y core
+logged_at: 2026-02-04 at 16:18 - Wednesday
+start_time: 2026-02-04 at 15:20 - Wednesday
+end_time: 2026-02-04 at 15:46 - Wednesday
+duration: 25m 32s
+exercises:
+  - name: Triceps Extension (Machine)
+    sets:
+      - 29.48 kg x 15 reps
+      - 29.48 kg x 14 reps
+      - 29.48 kg x 7 reps
+  - name: Preacher Curl (Machine)
+    sets:
+      - 29.48 kg x 15 reps
+      - 29.48 kg x 14 reps
+      - 29.48 kg x 12 reps
+  - name: Treadmill
+    sets:
+      - 500 m | 6:00
