@@ -573,3 +573,13 @@ exercises:
   - name: Treadmill
     sets:
       - 500 m | 6:00
+---
+title: Afternoon workout 💪
+logged_at: 2026-02-06 at 14:19 - Friday
+start_time: 2026-02-06 at 14:13 - Friday
+end_time: 2026-02-06 at 14:19 - Friday
+duration: 6m 5s
+exercises:
+  - name: Treadmill
+    sets:
+      - 500 m | 6:00
