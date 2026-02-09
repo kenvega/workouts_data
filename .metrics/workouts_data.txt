@@ -583,3 +583,15 @@ exercises:
   - name: Treadmill
     sets:
       - 500 m | 6:00
+---
+title: Afternoon workout 💪
+logged_at: 2026-02-09 at 18:36 - Monday
+start_time: 2026-02-09 at 18:22 - Monday
+end_time: 2026-02-09 at 18:36 - Monday
+duration: 14m 0s
+exercises:
+  - name: Incline Bench Press (Dumbbell)
+    sets:
+      - 5.00 kg x 25 reps | RPE 9
+      - 5.00 kg x 25 reps | RPE 9
+      - 5.00 kg x 20 reps | RPE 9
