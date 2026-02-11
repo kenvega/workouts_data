@@ -595,3 +595,13 @@ exercises:
       - 5.00 kg x 25 reps | RPE 9
       - 5.00 kg x 25 reps | RPE 9
       - 5.00 kg x 20 reps | RPE 9
+---
+title: Afternoon workout 💪
+logged_at: 2026-02-11 at 18:23 - Wednesday
+start_time: 2026-02-11 at 18:17 - Wednesday
+end_time: 2026-02-11 at 18:23 - Wednesday
+duration: 6m 0s
+exercises:
+  - name: Treadmill
+    sets:
+      - 500 m | 6:00
