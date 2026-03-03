@@ -701,3 +701,13 @@ exercises:
   - name: Elliptical Trainer
     sets:
       - 800 m | 10:00
+---
+title: Afternoon workout 💪
+logged_at: 2026-03-03 at 17:06 - Tuesday
+start_time: 2026-03-03 at 17:00 - Tuesday
+end_time: 2026-03-03 at 17:06 - Tuesday
+duration: 6m 1s
+exercises:
+  - name: Treadmill
+    sets:
+      - 500 m | 6:00
